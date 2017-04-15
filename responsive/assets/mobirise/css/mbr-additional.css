@@ -381,6 +381,7 @@ h6,
 .lead a:hover {
   color: #ffffff;
   text-shadow: 2px 2px #000000;
+  text-decoration: underline;
 }
 .lead blockquote {
   border-color: #c0a375;
